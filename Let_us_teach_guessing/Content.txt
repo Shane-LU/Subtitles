@@ -1,0 +1,407 @@
+04/28 10:13 
+7:00/59:44
+
+13.01 -> 15:08
+13.19  -> 17:55
+14.32 -> 19:34
+
+(I will remove most of the “you see” in the video, which are not of much importance.)
+
+
+The mathematical association of America
+The mathematical association of America presents
+MAA video classics number 1  George Polya in teaching us a lesson
+copyright 1966 The mathematical association of America All Rights Reserved Unauthorized Reproduction is Prohibited
+
+What I am trying to present you today will not be a lecture
+it will be rather a demonstration or an experiment
+In this experiment or demonstration or whatever you like to call it
+has the aim to present to you my attitude to teaching
+you see, this is not a method, it is not a system
+teaching is not a science, it’s an art
+you cannot put it clearly in a system 
+but you may have an attitude to it
+this attitude cannot be easily described inverts.
+more in acts and I will show you that afterwards if I can 
+but I can tell you a few slogans.
+Let me put my first point in the question and answer form.
+What is teaching? 
+In my opinion, teaching is giving opportunity to the students to discover thinks by themselves. 
+Not a teacher should tell the things to the students
+If they wish to learn. Clearly, they have to discover it.
+The second point: first guess then prove.
+All great discoveries were made in this type.
+The discoveries in the mind of Archimedes or Gauss or Newton, they are conceived this way or 
+anyhow some of the important terms. (?)
+Any kids in the classroom finds, thinks this way: first guess then prove.
+My third point is a straightforward application of this point to Mathematics.
+Mathematics seems to consist of proof, but it’s not quite so.
+Finished Mathematics consists of proofs. But Mathematics in the making consists of guesses.
+
+
+Let us teach guessing
+A Demonstration with George Polya 1965 Mathematical association of America
+
+produced for committee on Educational media
+Mathematical association of America
+
+Introduction 
+Professor R.A. Rosenbaum Wesleyan University
+
+The academic ideal in mathematics as well as other disciplines is that of 
+the scholar teacher, the person who can contribute notably to the world store of 
+knowledge and understanding 
+and who can also make other in their teaching effectiveness
+
+One man is acknowledged to be pro-eminent,  to be the paradigm
+the archetype and model for us all.
+This exemplar is George Polya. Much of Polya’s 
+academic life was spent in Swiss land after his education in Budapest.
+
+He came to the United States and joined Stanford faculty in 1942. 
+He holds numbers of honorable degrees and has written many books and some 220 articles. Most of them proves
+his imaginative mathematical research.
+
+His contribution to the combined field of mathematics and mathematical education are unequal. 
+The demonstration which you are about to see is truly un-rehearsed and spontaneous. 
+It illustrates his extraordinary his uncanny ability to stimulate a group to guess intelligently to
+make reasonable conjectures, 
+a process which is essential to mathematical discovery.
+(5: 56)
+
+Ladies and gentlemen, 
+I don’t wish to give you a lecture but I wish to teach you about guessing. 
+It’s very important part in life to be a good guesser, you see. 
+It’s very important part in mathematics. 
+You wonder a little how. Because if anywhere, so in mathematics you have proofs. 
+And only that is valid in mathematics (for its proofs?) 
+
+What is tell a part ? of guessing. Yes there is a part. 
+Mathematics when it’s finished, complete or done, then it consists of proofs. 
+But when it is discovered, it always starts with a guess. 
+And I wish to give you a real experience of it.
+So I don’t wish to give you a lecture. 
+But we play together a guessing game. 
+you should find out from your own experience what is reasonable guessing. 
+Not wild guessing that get everywhere. 
+wild guess ? to learn wild guess?
+The less you know, the easier to make a wild guess. 
+but an educated guessing, a reasonable guessing that is something else. 
+That should be learned. 
+in mathematics class a good opportunity to learn. 
+So we play together a guessing game. 
+This like any other games, there is rules. ?
+But the rules are very simple. 
+And there are just two rules. 
+One for those people who will know the answer to my question. I hope they are very few. 
+But if you know ? my question, ?
+
+don’t answer my question. that will be unfair. 
+if you know the answer in advance. 
+You would spoil the fun of all of us. 
+So don’t do that. 
+However, if you don’t know the answer to my question, then don’t hold back. 
+Don’t be bashful but guess.
+
+of course, your guess maybe wrong. 
+but that’s fun of the art of guessing.?
+
+Even if they are wrong, the wrong guess is helpful. 
+The wrong guess leads you to a better guess, and to a still better guess.
+finally you get the truth. 
+Well that’s enough introduction. 
+Let’s go into the matter.
+
+So I give you a problem to guess. 
+
+It will be really a problem of solid geometry.
+but you know solid geometry not much is there to know ?
+
+For instance, everybody know what is a plane.
+A plane is very flat. 
+the top of this desk. 
+This is part of a plane. 
+Or approximately, the better it is made, 
+the smoother it is the flatter it is 
+the better it presents the ideal plane of mathematics
+but the ideal mathematic plan
+go in all directions it is infinite
+so you know what is a plane
+it’s flat and infinite. 
+Now My problem is about planes. 
+several of them.
+
+5 planes. 
+So you image 5 planes. 
+If you cut 
+one plane, two planes, 3, 4 5 planes.
+Now 5 planes cut the space in many parts or divisions or 
+compartments or whatever you call it. 
+and that is the question:
+How many parts? 
+This is my question. Or almost. There is something to be added. 
+Find the value itself. 
+But you understand. 
+Image a big piece of cheese. Some cheese you like. 
+It may beGreen cheese.
+Swiss cheese. whatever you like.
+One, two, three, four five. 
+there is 
+
+have to guess how many. 
+
+who is ready to say the guess?
+don’t be bashful?
+
+say something. 
+25
+How did you get it. 5 * 5
+That’s an idea. 
+There is some idea. 
+Anybody other guess?
+32 
+32?
+something behind you. 32. Interesting
+Quite big number.
+Still another guess. 
+
+Well that’s enough to start with. 
+Can both guesses be correct?
+Can both guesses be correct?
+Yes. 
+Yes.
+Oh. That’s interesting. expected
+But you may be right, who knows? 
+
+All right. Any other guess?
+Any other questions. 
+Yes please.
+I say 10 spaces.
+10 spaces, 10, so many. 
+Well we shall see who is right. 
+but you see there is an other point.
+You see. 
+Guessing is the important beginning of solving any problem
+
+The real problem is difficult.
+
+It belongs to the idea of the problem.
+So if you cannot do a problem,
+what to do?
+just wait for an idea? No 
+the correct thing is try to image some easier problem, which could
+image
+preparing for 
+easy problem which could help.
+
+
+you should be suspicious in life(you see). 
+So if I ask you 5 plates, 
+ask you self
+why does he ask just 5?
+why not 4?
+why not 6?
+so what will you ask?
+yes?
+I guess you mean, 
+how many planes, say 3 planes
+3 planes
+good.
+
+The simplest 
+the two planes
+is that simplest?
+1, 1 plane. 
+which simplest
+
+in mathematics, often the simplest is the best. 
+
+
+So, here is. Here is for you one plane. 
+Or you tell me that is just one line on the blackboard. 
+Yes, it is true. 
+But I mean in the following way (you see):  
+
+this line on the blackboard is the intersection of the blackboard with this plane(you see)
+By this plane I am showing you a horizontal plane. 
+Horizontal plane could be the surface of quiet water. of a reflecting bond. 
+There is nothing else. 
+Just this surface. Over it air, under it water. 
+
+So how many parts? Two. Good. 
+Please. 
+Could I add 12 to the guess?
+guesses are always accepted. 12.
+So… but in this case, there are just two parts. 
+Is that clear? You see, 
+But in mathematics, it’s an advantage ? First of all
+You can make yourself completely clear the simplest case. 
+And it’s useful. 
+
+So in order not to forget it, I wish to note it down. So I have just one dividing 
+plane. 
+
+Dividing plane. 
+And it’s just 1 dividing plane, the number of parts is exactly two. 
+Good. 
+This was one. 
+So what was the next case?
+After one. 
+What comes after one? 
+Two. ?
+That’s good. 
+
+So here. 
+Any plane. 
+Or you see this is not a plane. Just a line. Yes. But I mean?
+You will see this line is the intersection of the plane of the blackboard
+with such a plane. 
+
+So you have two planes. One, two. 
+How many parts do you see? 
+Four. 
+
+You can shout much louder. 
+Two planes, you have 4 parts. 
+Good. 
+Now what about 3 planes?
+I will tell you once, yes please.
+Could I ask you a question? 
+Yes, please, do ask questions. 
+If the planes were parallel, was it still divide them ?
+
+Very good question. 
+I am waiting just for your question.
+This is a very good question. 
+
+If all the planes are parallel, 1, 2, 3, 4, 5, then it’s not problem. 
+If all 5 planes are parallel, your imagination,  
+like that. Then how many parts? 6
+
+Well then, the whole problem will be over. This cannot be the question. 
+Very good question. 
+I wanted you to putting it out. 
+Yes, my question was incompletely stated.  And that was so intentionally (you see). 
+
+Because problems in life, even in science, they are often incompletely stated.  
+You have to find out what the real question is. 
+
+So my real question is (you see), the planes should not be parrallel. 
+Or should not all pass ? the same point. 
+They should be taken at random.
+
+Here is one plane. Here. Let us ? the plane. 
+And then you wish to make other planes. 
+
+Well, hopefully you can other plane. 
+You see
+You could make on a piece of wood. You can make two planes. 
+Well, It’s pretty difficult to make a good plane surface on the surface of wood. 
+
+And you make one, then the second should be parallel. 
+Do you think you will ever succeed? 
+Maybe will be good enough for the piece of wood. You wouldn’t see the different. 
+But both were put far enough, very likely it will have little little inclination.
+And when far enough, they will do what? they will meet, intersect. 
+
+So you see, if the planes are taken? at random. 
+Then no two will parallel, or no three will pass through the same line. 
+That is almost impossible. 
+
+Well I hope you have a sound ?
+
+So these are two planes taken at random. 
+You feel happy about your question? 
+Yes. 
+Good. That’s a very good question. 
+
+Now look here. 
+One plane, two planes. How many parts? 
+Four. Four. Good. 
+Answer ?
+we got over it. 
+
+Now three planes. 
+Three planes. 
+It will be a better idea to put it just. That will be a better idea. 
+? 
+Or I know. The blackboard that is the third plane. It’s good enough for the third plane. 
+Then look here. 
+The two planes indicateing by the lines and the blackboard. 
+They are some of the parts are in the room in front of the blackboard. How many such? 
+Four. 
+Good. 
+Some other parts are outside the room behind the blackboard. 
+How many such? 
+Four. 
+
+So all together, how many? 
+Eight. 
+Good. Eight. 
+Now look here. Perhaps the most important point. You understood now the problem. 
+
+I have little space. I have to erase it. 
+But here will come really the most important.
+
+I wish to told you .. to the most important points in reasonable guessing. 
+If had more time maybe introduce each much slower,  
+But time? 
+Tell you one interesting important point. 
+extreme cases. 
+
+For instance, in our case, such an extreme case will be 
+0. Well, then   
+There is just one space. Good. 
+Now, let me come to the next case. We have 4 dividing planes. 
+Try to guess it. 4 dividing planes. How many parts? 
+Wow, so many hands. 
+You take it. 
+Sixteen? 
+Sixteen. 
+Who seconds the motion?
+Good. 
+
+Well I must tell you this is a reasonable guess. 
+Tell the difference between a wild guess and a reasonable guess. 
+A wild guess just come out of nothing. 
+But a reasonable guess is based on something. 
+This guess, 16 was based on observation. 
+Before guessing 16, you observed the numbers. 1, 2, 4, 8. 
+Well, what did you observe. What observation?
+What did you observe?
+They seem to be the powers of 2. 
+Yes. Powers of 2. This is ? 
+Each is the double of the foregoing power of 2. OK. 
+Ok
+So you observe a pattern, regularity, law. Regularity. 
+You can call it. 
+You observed that. 
+And there is one more point. 
+Perhaps you did not pay attention	to ?
+After having observed this pattern, you had some courage to say. 
+you didn’t sse. 
+I wish to point out 
+belongs to it. 
+You see, in soon. 
+It is through the case observed. 
+Steps of generalization. 
+So we got 16 in a reasonable way of guessing. 
+We observed. We found the pattern. And we think it will go on like this. 
+We made generalization. 
+This is very important. 
+You hear all the time about it. 
+This is important in all the science. 
+How do you call that?
+Generalization starting from observation. 
+Observed low, generalized. 
+That has a name. 
+Induction. That’s fine. 
+Our science are inductive.
+All our knowledge
+ 
+There are some essential points about induction. 
+So I must it is a reasonable guess?
+Is it proofed? 
+Is 16 certain or no? 
+conviction. Loud. 
+
