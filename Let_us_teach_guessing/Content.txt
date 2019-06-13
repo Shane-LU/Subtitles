@@ -451,9 +451,62 @@ So if you introduce 3 lines, then you introduce a triangle.
 
 I foresaw this difficulty, so I show you this same figure again.
 
-By introducing three lines, you got a triangle.?
+By introducing three lines, you got a triangle finite.?
 
 And in space, if you introduced a fourth plane, then something similar happens. 
 You got a finite body. ?
-solid body by four planes?
+What is the solid body by four planes?
 Tetrahedron.
+
+So there is the Tetrahedron. So if you introduce four planes, ?
+That is the new things happens. 
+
+After that it's easy to record, to visualize the situation. 
+Of course, 
+picture, because this is going to infinite.
+
+And how many should there be? 
+What did you say? 
+Stick to your guess. 
+
+Can you by just looking at the ? Can you? How many?
+31:33
+How did you ?
+Are you sure 
+
+You see you could make mistakes in two ways. 
+
+Some part you may count it twice. 
+Fifteen. 
+Could you explain us how?
+Tetrahedron, your drawn small Tetrahedrons 
+There will be one for each edge of the Tetrahedron. 
+
+He is very clever. Very clever. 
+Did others follow? Well I think he is right. It seems that he is right. 
+
+You see, you can do it by analogy. 
+Consider first the similar case in the plane. 
+How many (parts) are there in the plane, given there are three lines? 
+Just look at it. 
+Loud please. Seven.
+Now you can count seven parts in various ways. 
+One way in counting is 
+finite part is just one. This is the most interesting part. This is triangle. 
+The others are infinite. Around it. 
+I put my finger here and start counting. 
+One, two, three, four, five, six.
+One and six make seven. 
+Yes, that's good. But not good enough. 
+Because this I cannot quite imitate in space. 
+Also in the space all the parts are around, but not around in the same way. 
+They don't surround in the same way. 
+So we must count it in the more sophiscated method.
+
+Tell you how. 
+There is really two differnet types of parts. 
+This part has the common with the triangle.
+How many such? 
+Three. 
+Loud please.
+Three. 
