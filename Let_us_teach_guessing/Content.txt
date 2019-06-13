@@ -6,26 +6,26 @@ The mathematical association of America presents
 MAA video classics number 1  George Polya in teaching us a lesson
 copyright 1966 The mathematical association of America All Rights Reserved Unauthorized Reproduction is Prohibited
 
-What I am trying to present you today will not be a lecture
-it will be rather a demonstration or an experiment
+What I am trying to present you today will not be a lecture.
+It will be rather a demonstration or an experiment.
 In this experiment or demonstration or whatever you like to call it
-has the aim to present to you my attitude to teaching
-you see, this is not a method, it is not a system
-teaching is not a science, it’s an art
-you cannot put it clearly in a system 
-but you may have an attitude to it
-this attitude cannot be easily described inverts.
-more in acts and I will show you that afterwards if I can 
+has the aim to present to you my attitude to teaching.
+You see, this is not a method, it is not a system.
+Teaching is not a science, it’s an art.
+You cannot put it clearly in a system,
+but you may have an attitude to it.
+This attitude cannot be easily described inverts.
+More in acts and I will show you that afterwards if I can,
 but I can tell you a few slogans.
 Let me put my first point in the question and answer form.
 What is teaching? 
 In my opinion, teaching is giving opportunity to the students to discover thinks by themselves. 
-Not a teacher should tell the things to the students
-If they wish to learn. Clearly, they have to discover it.
+Not a teacher should tell the things to the students.
+If they wish to learn, clearly, they have to discover it.
 The second point: first guess then prove.
 All great discoveries were made in this type.
 The discoveries in the mind of Archimedes or Gauss or Newton, they are conceived this way or 
-anyhow some of the important terms. (?)
+anyhow some of the important terms(?). 
 Any kids in the classroom finds, thinks this way: first guess then prove.
 My third point is a straightforward application of this point to Mathematics.
 Mathematics seems to consist of proof, but it’s not quite so.
@@ -44,7 +44,7 @@ Professor R.A. Rosenbaum Wesleyan University
 The academic ideal in mathematics as well as other disciplines is that of 
 the scholar teacher, the person who can contribute notably to the world store of 
 knowledge and understanding 
-and who can also make other in their teaching effectiveness
+and who can also make other in their teaching effectiveness.
 
 One man is acknowledged to be pro-eminent,  to be the paradigm
 the archetype and model for us all.
@@ -60,34 +60,34 @@ The demonstration which you are about to see is truly un-rehearsed and spontaneo
 It illustrates his extraordinary his uncanny ability to stimulate a group to guess intelligently to
 make reasonable conjectures, 
 a process which is essential to mathematical discovery.
-(5: 56)
 
+<---
 Ladies and gentlemen, 
 I don’t wish to give you a lecture but I wish to teach you about guessing. 
-It’s very important part in life to be a good guesser, you see. 
+It’s very important part in life to be a good guesser. 
 It’s very important part in mathematics. 
 You wonder a little how. Because if anywhere, so in mathematics you have proofs. 
 And only that is valid in mathematics (for its proofs?) 
 
-What is tell a part ? of guessing. Yes there is a part. 
+What is tell it apart of guessing. Yes there is apart. 
 Mathematics when it’s finished, complete or done, then it consists of proofs. 
 But when it is discovered, it always starts with a guess. 
 And I wish to give you a real experience of it.
 So I don’t wish to give you a lecture. 
 But we play together a guessing game. 
-you should find out from your own experience what is reasonable guessing. 
+You should find out from your own experience what is reasonable guessing. 
 Not wild guessing that get anywhere. 
-wild guess you don't have to learn in order to wild guess (?)
+Wild guesses you don't have to learn in order to wild guess (?)
 The less you know, the easier to make a wild guess. 
-but an educated guessing, a reasonable guessing that is something else. 
+But an educated guessing, a reasonable guessing that is something else. 
 That should be learned. 
-in mathematics class a good opportunity to learn. 
+In mathematics class a good opportunity to learn. 
 So we play together a guessing game. 
 This like any other games, there is rules.
 But the rules are very simple. 
 And there are just two rules. 
 One for those people who will know the answer to my question. I hope they are very few. 
-But if you know my question, you know my problem, don’t answer my question. that will be unfair. 
+But if you know my question, you know my problem, don’t answer my question. That will be unfair. 
 if you know the answer in advance. (?)
 You would spoil the fun of all of us. 
 So don’t do that. 
@@ -99,7 +99,7 @@ but that’s fun of the art of guessing.(?)
 
 Even if they are wrong, the wrong guess is helpful. (?)
 The wrong guess leads you to a better guess, and to a still better guess.
-finally you get the truth. 
+Finally you get the truth. 
 Well that’s enough introduction. 
 Let’s go into the matter.
 
@@ -110,41 +110,41 @@ but you know solid geometry not much is there to know (?)
 
 For instance, everybody know what is a plane.
 A plane is very flat. 
-the top of this desk. 
+The top of this desk. 
 This is part of a plane. 
 Or approximately, the better it is made, 
-the smoother it is the flatter it is 
+the smoother it is, the flatter it is 
 the better it presents the ideal plane of mathematics
 but the ideal plane of mathematic also
-go in all directions it is infinite
+go in all directions. It is infinite
 so you know what is a plane
 it’s flat and infinite. 
 Now my problem is about planes. 
 several of them.
-(?)
-5 planes. 
+(?) And to tell the whole story, 
+about 5 planes. 
 So you image 5 planes. 
 If you cut this room 
 one plane, two planes, 3, 4 5 planes.
-Now 5 planes cut the space in many parts or divisions or 
+Now these 5 planes cut the space in many parts or divisions or 
 compartments or whatever you call it. 
-and that is the question:
+And that is the question:
 How many parts? 
 This is my question. Or almost. There is something to be added. 
-But I wait you to find the it yourself. 
+But I wait till you to find the it yourself. 
 But you understand. 
 Image a big piece of cheese. Some cheese you like. 
 It may be green cheese.
 Swiss cheese. whatever you like. And then you got
 One, two, three, four five.  very (?)
-there are lots of pieces.   
+there are lots of many pieces.   
 
 have to guess how many. (?)
 
 who is ready to say the guess?
 don’t be bashful?
 Go ahead. 
-say something. 
+Say something. 
 25
 25
 How did you get it. 
@@ -152,9 +152,10 @@ How did you get it.
 That’s an idea. 
 There is some idea. Good. 
 Anybody ready for other guess?
+Yes, please.
 32 
 32?
-something behind you. 32. Interesting
+have something behind you. 32. Interesting
 Quite big number.
 Still another guess?
 
@@ -162,7 +163,7 @@ Well that’s enough to start with.
 Can both guesses be correct?
 Can both guesses be correct?
 Yes. 
-Yes.
+Yes?
 Oh. That’s interesting. I didn't expect this answer.
 But you may be right, who knows? 
 
@@ -172,6 +173,7 @@ Any other questions.
 Yes please.
 I say 10 spaces.
 10 spaces, 10, so many. 
+
 Well we shall see who is right. 
 but you see there is an other point.
 Guessing is the important beginning of solving any problem.
@@ -181,25 +183,26 @@ The real problem is difficult. The real problem is difficult so that it becomes 
 It belongs to the idea of the problem. with some difficulty. 
 So if you cannot do a problem,
 what to do?
-just wait for an idea? No 
-the correct thing is try to image some easier problem, which could 
+Just wait for an idea? No 
+The correct thing is try to image some easier problem, which could 
 prepare you for the problem. 
-Some easy problem which could help.
+Some easier problem which could help.
 In this case, it is not very difficult. 
 Image. 
 you should be suspicious in life(you see). 
-So if I ask you 5 plates, then you should have
+So if I ask you 5 planes, then you should have
 asked you self
-why does he ask just 5?
-why not 4?
-why not 6?
-so what will you ask?
+Why does he ask just 5?
+Why not 4?
+Why not 6?
+So what will you ask?
 yes?
 I guess you mean, how many planes, say 3 planes
 3 planes good.
 
 The simplest model will be 2 planes. 
-the two planes is that simplest?
+the two planes 
+Is that simplest?
 1, 1 plane. Oh yes. 
 So we have found the simplest. One. 
 Yes. That it is. 
@@ -216,14 +219,14 @@ But I mean in the following way:
 this line on the blackboard is the intersection of the blackboard with this plane
 By this plane I am showing you a horizontal plane. 
 In this horizontal plane could be the surface of quiet water. of a reflecting bond. 
-There is nothing else in the (?)
+There is nothing else in the world. 
 Just this surface. Over it air, under it water. 
 
 So how many parts? Two. Good. 
 Please. 
 Could I add 12 to the guess?
 12. Oh Yes. 
-guesses are always accepted. 12.
+Guesses are always accepted. 12.
 So… but in this case, there are just two parts. 
 Is that clear? You see, 
 But in mathematics, it’s an advantage ? First of all
@@ -235,11 +238,11 @@ It's long to write dividing plane. So I just write ding.
 And it’s just 1 dividing plane, then the number of parts is exactly two. 
 Good. 
 This was one. 
-So what was the next case?
+So what is the next case?
 After one. 
 What comes after one? 
 Two. 
-That’s good. So great. (?)
+That’s good. So great. Count to two(?)
 
 So here. 
 Any plane. (?)
@@ -251,7 +254,7 @@ How many parts do you see?
 Four. 
 Please, answer loudly. 
 You can shout much louder. 
-OK. Two planes, you have 4 parts. 
+OK. So you have two planes, you have 4 parts. 
 Good. 
 Now what about 3 planes?
 Well, I will tell you once, yes please.
@@ -261,14 +264,14 @@ If the planes were parallel, was it still divide them ?
 
 Very good question. 
 I am waiting just for your question.
-This is a very good question. 
+That is a very good question. 
 
 If all the planes are parallel, 1, 2, 3, 4, 5, then it’s not problem. 
-If all 5 planes are parallel, your imagination, like that. Then how many parts? 6
+If all 5 planes are parallel, use your imagination, like that. Then how many parts? 6
 
 Well then, the whole problem will be over. This cannot be the question. 
 Very good question. 
-I wanted you to putting it out. 
+I wanted you to bring it out. 
 Yes, my question was incompletely stated.  And that was so intentionally. 
 
 Because problems in life, even in science, they are often incompletely stated.  
@@ -281,10 +284,9 @@ They should be taken at random.
 Here is one plane. Here. Let us ? the plane. 
 And then you wish to make other planes. 
 
-Well, hopefully you can other plane. 
-You see
+Well, how should I make other plane? 
 You could make on a piece of wood. You could make two planes. 
-Well, It’s pretty difficult to make a good plane surface on the surface of wood. 
+Well, It’s pretty difficult to make a good plane surface on the piece of wood. 
 
 And you make one, then the second should be parallel. 
 Do you think you will ever succeed? 
@@ -292,8 +294,8 @@ Maybe will be good enough for the piece of wood. You wouldn’t see the differen
 But both were put far enough, very likely it will have little little inclination.
 And when far enough, they will do what? they will not be parallel, they will meet, intersect. 
 
-So you see, if the planes are taken? at random. 
-Then no two will parallel, or no three will pass through the same line. 
+So you see, if the planes are taken at random. 
+Then no two will be parallel, or no three will pass through the same line. 
 That is almost impossible. 
 
 Well I hope you have a sound idea about it. 
@@ -313,7 +315,7 @@ Now three planes.
 Three planes. 
 It will be a better idea to put it just. That will be a better idea. 
 ? 
-Or I know. The blackboard that is the third plane. It’s good enough for the third plane. 
+Oh I know. The blackboard that is the third plane. It’s good enough for the third plane. 
 Then look here. 
 The two planes indicateing by the lines and the blackboard. 
 They are some of the parts are in the room in front of the blackboard. How many such? 
@@ -328,13 +330,13 @@ Eight.
 Good. Eight. 
 Now look here. Perhaps the most important point. You understood now the problem. 
 
-I have little space. I must erase it. 
+I have so little space. I must erase it. 
 But here will come really the most important.
 
-I wish to told you attention to the most important points in reasonable guessing. 
+I wish to (?) told you attention to the most important points in reasonable guessing. 
 If had more time I will introduce each much slower,  
-But time? 
-So I tell you one interesting important point. 
+But we have little time?.
+So I tell you one interesting important point to think of. 
 Extreme cases. 
 
 For instance, in our case, such an extreme case will be
@@ -347,39 +349,40 @@ You take it.
 Sixteen? 
 Sixteen. 
 Who seconds the motion?
-Good. 
+Woo, everybody. Good. 
 So 16. 
 
 Well I must tell you that is a reasonable guess. 
 It's the time to tell you the difference between a wild guess and a reasonable guess. 
-A wild guess come just out of nothing. 
+A wild guess come just out of the blue(?) nothing. 
 But a reasonable guess is based on something. 
 For instance, this guess, 16 was based on observation. 
 Before guessing 16, you observed the numbers. 1, 2, 4, 8. 
 Well, what did you observe. What observation?
 What did you observe?
 They seem to be the powers of 2. 
-Yes. Powers of 2. This is zero power (?)
+Yes. Powers of 2. This is zero's power. Second. Third. 
 Each is the double of the foregoing power of 2. OK. 
 
-So you observe a pattern, regularity, law. Pattern, Law, Regularity. 
+So you observed a pattern, regularity, law. Pattern, Law, Regularity. 
 You can call it. (?)
 You observed that. 
 And there is one more point. 
-Perhaps you did not pay attention	to it but it's very important.
-After having observed this pattern, you had some courage to say or see. 
+Perhaps you did not pay attention to it but it's very important.
+After having observed this pattern, you had some courage to say or see(?). 
 Or you didn’t see, you just saw it. Or you didn't think it.  
 But I wish to point out that
 belongs to it. 
 You see, in soon. 
 It will go ?
 It is two not only in the cases observed, but in all the other cases. 
+Step of generalization. 
 
 
 It is through the case observed. 
 So ? Steps of generalization. 
 So we got 16 in a reasonable way of guessing. 
-We observed. We found pattern. And we think it will go on like this. 
+We observed. We found pattern. And we think (?) it will go on like this. 
 We made generalization. 
 This is very important. 
 wish very important ?
@@ -390,7 +393,7 @@ When you get a generalization starting from observation.
 Observed low, generalized. 
 That has a name. 
 Induction. That’s fine. 
-Our science are inductive.
+Our science is inductive. It is. 
 All our knowledge was obtained in this way. 
 Well, ?
 There are some essential points about induction. 
@@ -398,14 +401,14 @@ So I must admit it is a reasonable guess.
 But is it proofed? 
 Is 16 certain or not? Yes or no. 
 No. 
-conviction. Louder. 
+Answer with more conviction. Louder. 
 No. 
 
 Now. Good. 
 So I put a ? after 16. It is doubtful. 
 Now you see what is very important in? reasonable guessing. 
 You shouldn't pull it back. That's not good. 
-you can guess. 
+You can guess. 
 What you should not do that you believe your own guesses.
 Believing a little bit in your guess is healthy. ?
 But believe completely your guess, well that's the stand point of savagers, not of educated peoeple. 
@@ -415,7 +418,7 @@ You have to check it.
 Your guess was a prediction. 
 You predicted if I put 4 planes at random, then there will be 16 pieces of space. 
 You predicted that. 
-BTW, I will tell you it is not very easy to image four planes in space.
+BTW, I will tell you it is not very easy to image four planes at random in space.
 except one point, something remarkable happens.
 And that we can understand a little by the analogy of the the plane. 
 
@@ -437,9 +440,9 @@ If you divide by two lines, on the blackboard, how many parts are there?
 Four. 
 Four. 
 
-May I direct your attention to that all four parts are infinite. it's not bounded. You can go away in this part as far as you wish, from the point of intersection. All four parts are infinite.
+May I direct your attention to that all four parts are infinite. It's not bounded. You can go away in this part as far as you wish, from the point of intersection. All four parts are infinite.
 
-But if you introduce a third line. ? at any position. Like that. 
+But if you introduce a third line. Just random at any position. Like that. 
 Then something happens. 
 Then there is one division of the space which is more interesting than the others. It is bounded for all sides. It is finite. How do you call this part?
 
@@ -454,59 +457,71 @@ I foresaw this difficulty, so I show you this same figure again.
 By introducing three lines, you got a triangle finite.?
 
 And in space, if you introduced a fourth plane, then something similar happens. 
-You got a finite body. ?
-What is the solid body by four planes?
-Tetrahedron.
+You got a finite body. Four plane include ?
+What is the solid body by four planes? 
+Tetrahedron. So that's the answer. 
 
-So there is the Tetrahedron. So if you introduce four planes, ?
-That is the new things happens. 
+So there is the Tetrahedron. So if you introduce four planes, you get a finite part of the space.
+That is the new things that happens. 
 
-After that it's easy to record, to visualize the situation. 
-Of course, 
-picture, because this is going to infinite.
+After that it's easy to record, it is easy to visualize the whole situation. 
+Of course, this planes (?)
+picture, because this is go to infinite.
+
+They still cut the space in many parts. 
+One of them finite, the other go to infinite?
 
 And how many should there be? 
-What did you say? 
-Stick to your guess. 
+What did you say? How many should there be? 
+Now stick to your guess. Say what you did before. 16. 16. That's 16.
+Now we shall see. 
+Can you just by looking at the ? Can you? How many? 15. How did you come?
 
-Can you by just looking at the ? Can you? How many?
-31:33
-How did you ?
-Are you sure 
+Are you sure that you counted correct?
 
-You see you could make mistakes in two ways. 
+You see you could make mistakes in two ways. There is some parts you forgot. 
 
 Some part you may count it twice. 
-Fifteen. 
+But you counted fifteen. 
 Could you explain us how?
-Tetrahedron, your drawn small Tetrahedrons 
+First I counted the tetrahedron, then your drawn small tetrahedrons at the vertices. (?)
 There will be one for each edge of the Tetrahedron. 
-
-He is very clever. Very clever. 
-Did others follow? Well I think he is right. It seems that he is right. 
-
+Oh Yes. 
+He is very clever. Very good. 
+Did the others follow? Well I think he is right. It seems that he is right. 
+I don't know. 
+follow. 
 You see, you can do it by analogy. 
-Consider first the similar case in the plane. 
+Consider first the similar case in the planes. 
 How many (parts) are there in the plane, given there are three lines? 
+How many parts?
 Just look at it. 
-Loud please. Seven.
+Loud please. Seven. Yes. 
 Now you can count seven parts in various ways. 
-One way in counting is 
+One way of counting is the 
 finite part is just one. This is the most interesting part. This is triangle. 
-The others are infinite. Around it. 
+The others are infinite. And they are around it. 
+
 I put my finger here and start counting. 
 One, two, three, four, five, six.
 One and six make seven. 
 Yes, that's good. But not good enough. 
 Because this I cannot quite imitate in space. 
-Also in the space all the parts are around, but not around in the same way. 
+Also in space, all the parts are around, but not around exactly in the same way. 
 They don't surround in the same way. 
-So we must count it in the more sophiscated method.
+So we must count it in the more sophiscated manner.
 
-Tell you how. 
+Tell you how. Two different part?
 There is really two differnet types of parts. 
+
+For example, this part has ?
+
 This part has the common with the triangle.
 How many such? 
 Three. 
 Loud please.
 Three. 
+
+Good. But there are still 
+
+Vertex. 
