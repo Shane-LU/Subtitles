@@ -28,8 +28,9 @@ The discoveries in the mind of Archimedes or Gauss or Newton, they are conceived
 anyhow some of the important terms(?). 
 Any kids in the classroom finds, thinks this way: first guess then prove.
 My third point is a straightforward application of this point to Mathematics.
-Mathematics seems to consist of proof, but it’s not quite so.
-Finished Mathematics consists of proofs. But Mathematics in the making consists of guesses.
+Mathematics seems to consist of proofs, but it’s not quite so.
+Finished Mathematics consists of proofs. 
+But Mathematics in the making consists of guesses.
 
 
 Let us teach guessing
@@ -52,7 +53,7 @@ This exemplar is George Polya. Much of Polya’s
 academic life was spent in Swiss land after his education in Budapest.
 
 He came to the United States and joined Stanford faculty in 1942. 
-He holds numbers of honorable degrees and has written many books and some 220 articles. Most of them proves
+He holds numbers of honorary degrees and has written many books and some 220 articles. Most of them proves
 his imaginative mathematical research.
 
 His contribution to the combined field of mathematics and mathematical education are unequal. 
@@ -523,5 +524,74 @@ Loud please.
 Three. 
 
 Good. But there are still 
-
+This one has in common.
 Vertex. 
+How many such? 
+Three. 
+Three again. 
+Now 1 + 3 + 3 = 7
+In easier way to count, 
+I hope we can imitate it in space. 
+That was your idea. Very good. 
+So he was jumped ahead of all us. 
+
+So let me repeat the question. 
+We have four planes, including a finite solid, a tetrahedron. 
+And it cut space in several pieces. 
+Inside of the tetrahedron is one of them, especially important. 
+This is the only finite one. All the others are around. 
+If you have to count, 
+In one of your ?
+I just try to bring everybody to the same point, how to count. 
+
+So analoy to the case in the plane. 
+Also here, finite part. Finite. 
+So analogy between the plane this, and the space, that figure. 
+
+Finite part in both cases, now how many? 
+Here one the triangle, and there the tetrahedron. That is just one. 
+So finite is just one. 
+
+But as in the plane case, all the others are around have something common. 
+For instance, there are some facing ?
+Goes from the whole face, a face. A triangle. 
+How many such?
+Four. 
+
+Even without look at the figure I can see that you are right. 
+Tetrahedron has four faces. 
+But others has less in commen. 
+Just an edge. 
+An infinite part like this. 
+
+
+Such a cutting edge. 
+How many such? 
+Six. 
+So having the edge in common. There are six. 
+And there is one more. 
+Just a point in common. 
+
+These are emphisis
+
+Peek into below. Peek from above. 
+
+How many such? 
+Four. 
+
+I think ?
+
+How many all together. 
+I am quite exited. 
+1 + 4 + 6 + 4 = 15. 
+15? But you told me 16. 
+
+So what 16?  <--- about 38:10
+
+I think Special case. Special case, because 
+You should always doubt.
+
+I think it's a general case.  
+
+intersection somewhere. 
+Change the phase
