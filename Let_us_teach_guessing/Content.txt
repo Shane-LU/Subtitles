@@ -496,12 +496,13 @@ You see, you can do it by analogy.
 Consider first the similar case in the planes. 
 How many (parts) are there in the plane, given there are three lines? 
 How many parts?
-Just look at it. 
+Just look at it. Not difficult. 
 Loud please. Seven. Yes. 
 Now you can count seven parts in various ways. 
-One way of counting is the 
-finite part is just one. This is the most interesting part. This is triangle. 
+One way of counting is the finite part is just one. 
+This is the most interesting part. This is triangle. 
 The others are infinite. And they are around it. 
+I can count it easily. 
 
 I put my finger here and start counting. 
 One, two, three, four, five, six.
@@ -515,7 +516,7 @@ So we must count it in the more sophiscated manner.
 Tell you how. Two different part?
 There is really two differnet types of parts. 
 
-For example, this part has ?
+For example, this part has in common with ?
 
 This part has the common with the triangle.
 How many such? 
@@ -533,7 +534,7 @@ Now 1 + 3 + 3 = 7
 In easier way to count, 
 I hope we can imitate it in space. 
 That was your idea. Very good. 
-So he was jumped ahead of all us. 
+So he was jumped ahead of all of us. 
 
 So let me repeat the question. 
 We have four planes, including a finite solid, a tetrahedron. 
@@ -547,23 +548,24 @@ I just try to bring everybody to the same point, how to count.
 So analoy to the case in the plane. 
 Also here, finite part. 
 Finite. 
-So analogy between the plane. this figure, and the space, that figure. 
+So analogy between the plane. this figure, and space, that figure. 
 
 Finite part in both cases, now how many? 
 Here one the triangle, and there the tetrahedron. That is just one. 
 So finite is just one. 
 
 But as in the plane case, all the others are around have something common. 
-For instance, there are some have face in common. 
+For instance, there are some having face in common. 
+For instance, this one. 
 Goes from the whole face, a face. A triangle. 
 How many such?
 Four. 
 
 Even without looking at the figure I can see that you are right. 
-Because you know Tetrahedron has four faces. 
+Because you know tetrahedron has four faces. 
 But others has less in commen. 
 Just an edge. 
-An infinite part like this. 
+An infinite part like that. 
 
 
 Such a cutting edge. 
@@ -571,10 +573,10 @@ How many such?
 Six. 
 So having an edge in common. There are six. 
 And there is one more. 
-If there is ?
+If there is l
 Just a point in common. 
 
-These are emphisis
+These are emphisis the figure. 
 
 Peek into below. I can peek from above. 
 
@@ -590,13 +592,13 @@ I am quite exited, aren't you?
 
 So what about the 16?
 
-I think maybe this is the special case. Special case, because three of the planes have 
+I think maybe this is the special case. Special case, because three of the planes have point in common. 
 Well you are right. 
 You should always raise doubt.
 
 But I think it's the general case.  
 A special case for instance, 
-when Two planes are parallel. ?
+when two planes are parallel. ?
 If one plane, ? little intersection. 
 intersection somewhere. 
 But it is pretty hard
@@ -604,48 +606,52 @@ Change the phase, quite bit angle, not change.
 
 Yes, please. 
 
-The case we did before when we thought it was 16. (Which ?) On the board, when you represent the planes by those lines. 
+The case we did before when we thought it was 16. (Which case ?) On the board, when you represent the planes by those lines. 
 And you had the forth plane represented by blackboard. 
-This is about lines. Lines in the plane. In the third case you represent 
+This is about lines. Lines in the plane. 
+But in the third case you represent 
 you represent three planes by those three line. 
+coming out. 
 
 From the blackboard. 
-That was general case. 
+That was also general case. 
 If you change any directions, 
 You are right. You should always doubt. 
 Don't believe anything.
-But I think it is general. to you. 
+But I think it looks to me general. to you. 
 What is ?
 I think 15 in all if all planes are intersecting at on point. 
 
 That is a very special case. 
 Three planes intersecting one point. 
-The forth should just pass the point. 
+The forth should just pass through the point. 
 It is a little more difficult. You don't have. 
-But I can assure you there still less
+But I can assure you there still less. 
 
-The new plane cut all the old pieces into two, then you have twice as many. Here missing.
+The new plane cut all the old pieces into two, then you have twice as many. Here were missing.
 
 I didn't quite get. 
 
-The new plane are speculation base on the fact that each additional plane would yield twice as many. 
+If the new plane are speculation base on the fact that each additional plane would yield twice as many parts . 
 
 Well that 
-That was your guess. That's 
-That will be true if , but it doesn't. 
+That was your guess. That's was your think.
+
+Speculation. That will be true if , but it doesn't. 
 
 
 But it doesn't. 
-
+Now we agree. 
 Well, look here. Don't follow anything easier?
-experience. 
+It is experience. 
 16 was a reasonable guess. inductive guess. It was not a wild guess. 
 
-observe.
+observe
 
 It was an obvious regularity. 
+generalization. 
 That experience 
-is the following
+teacher student. is the following ?  41:00
 
 reasonable guess maybe wrong. 
 
@@ -655,173 +661,252 @@ So he is right.
 It is wrong. 
 15 is right. 
 
+I have to erase it. 
 It is erased. But I hope it's not erased in your memory. 
 maybe wrong. 
 
-Learn something. 
+But I think we learn something. 
 belong to this analogy. One of you. 
+at beginning.
 Without analogy, it will have been much harder to find the number 15. 
+It will be much hard
 
 Another interesting case is the extremem case. 
 
-combine both. 
+even combine both. 
 
-We just divide the space by planes, 
+We first just divide the space by planes, 
 then we divide plane by lines. 
+Analogy case. 
 
 Let's 
 
-If you have one dividing line, you have two. 
+If you have one dividing line, you have two parts. 
 
-If you have three dividing lines, 
+If you have two dividing line, you have two parts. 
 
-Space divided by planes, plane divided by planes. 
+If you have three dividing lines, how many parts? 
+
+Seven. 
+
+go far. 
+
+Space divided by planes, plane divided by lines. 
 What comes after. 
 
-That's a clever conjuection. 
-It goes to the 
+
+
+That's a clever conjuection. Very good. 
+It goes to the third part because space is 3 dimension. 
+
+But I asked something different. 
 
 What next? 
 Line divided by points. 
 Line divided by points. 
 
 That is much simpler. It's no dividing point then there is just one line. 
-If there is just one dividing point, how many? Two. Two. 
-If you have two dividing points, how many? Three. 
-If I have three dividing points, how many pieces? Four. 
+If there is just one dividing point, how many pieces? Two. Two. 
+If you have two dividing points, how many pieces? Three. 
+If I have three dividing points, now how many pieces? Four. 
 Four dividing points, Five. 
+And so on. 
 
+If you have N dividing points. 
 N + 1. 
 You see, that should give you if you are inclined to do something in research. 
-amitious questions. 
+This should give you amitious questions. 
 What you should have a formula 
+a formula
 
 This is amitious. 
+You should be amitious. 
 In science. 
-But in science, you should have ambitious. 
+Other is not so good. 
+But in science, you should be ambitious. 
 
+Origin question
 If you have 5 dividing plane, then space 
+which number ?
 
 We collected some 
 
-One two, four, eight. 4th power, here 1, 2, 4. 
+Here one two, four, eight. 4th power, here 1, 2, 4. 
+4th power
+
+Two dimension
 
 Line is how many dimension? One. 
 Two is already too high. 
+clever guss. 
 
 There is something in this number. 
-Challeng. What should I write here. 
+Challeng. What should I write here?
+
+Looking at 
 what should I write here? 
 29. 
-29. Perhaps. 
+29. You say. Perhaps. 
 28. 
 Now I am short of space. 
 21. 
 21. 
 
-I don't 
+I don't know 
+What do you say?
 26. 
+You say 26. 
 so many difference. 
 
-Could you explain your reason. 
+Could you explain your reason for 26?
 
 Well, perhaps in this column. 
 
 4, the 2, 2. 
-So this is the pattern discovered. 
+So this is the pattern discovered.
+
+To get in the third column
+
+To get that second 4. Number
+
+Seems to go. 
+15 you got 8 and 7. 
+
+How did she get 26? 
+
+7 and 4 get 11. 
+ 
 
 49:46
 This is a reasonable guess. 
+A guess by induction. 
 It's based on observation. 
+
 Courage. Is it right?
 You had the courage. 
 If we go on, 
 So you had the courage. 
-Is 11 proved? 
+But tell me, is 11 proved? 
 Proved or not? 
-Is 26 proved. 
+Is 26 proved?
+Is 26 proved?
 No. 
 That was better. 
 
 It's another question. 
 
+not prooved. 
+
 Do you believe it? 
 Do you believe it? 
 Sort of. 
-That was a good.
+That was a good answer.
 Cautious. 
 You believe it in half and half. 
 
+
 But I can tell you. One of the important is to test your guess. 
+This is maybe the most important.
 You have to test your guess. 
 
 So you guess 11, 26. 
-
+which is easier to guess. 
+In the plane I can do. 
 I have 
 
-
+prediction. 
 She predicted 11. 
 
-How many finite part? 
+How many finite parts are there? 
 Three. 
-So finite parts are three. 
-Now the infinite part, so I put here my finger 
-My finger that is one. 3, 4, 5, 6,7, 8
+So finite parts are three. Finite. 
+I just
+Now the infinite part, so I put here my finger and start counting. 
+My finger that is 1, 2, 3, 4, 5, 6, 7, 8
 3 + 8 = 11.
+what about 11
+
+11 seems to be more than
 
 So 11 seems 
-I will be more interesting. 
+I will be more interesting in your opinion. 
 26 was a guess. It is still a guess. But the situaion is a little different. 
-influence the conviction. 
+verification, influence the conviction. 
 After the verification of 11, do you believe in 26 more or less? 
 More. 
-I think that's reasonable. 
+I think that's reasonable opinion. 
+
+underline pattern 
+underline pattern 
+
+proved?
 
 Now should you believe it? 
-Sort of 
+Sort of
+
+Not completely.  
 
 Not proved. 
+Mathematic proof
 What kind of proof
 
 Mathematics inductive. 
-Everything 
+Everything based on inductive.
 
 So 26 is not proofed. 
 
 You see, for us the most important part 
 
-It's good to look at 
+I want ot tell you. 
+
+It's good to look at extreme
+Analogy 
 induction is very important. 
 
+
 But just looking at is not enough. 
-If you detect a 
-boyfriend. 
+If you detect a pattern. 
+pattern
+behavior of boyfriend. 
 Detect a pattern. 
-have the courage to 
-Generalize 
-Altogether 
+have the courage to say and so on.
+Generalize pattern. 
+Altogether induction
 
 Test the guess. 
-Between the savagae and science. 
+This is between the savagae and science. 
 Scientist sort of believe 
+never complete.
 Some guess are more 
 So you have all thing to 
+I wish to tell you 
 Last 
 have to test the guess. 
-Keep 
+Keep all these 
 fact and guess. 
-This distinction. 
+This distinction. should be very clear in your mind
+
+
 
 All royal sciociety. 
-distinction between the 
-Sir John 
+
+distinction between the fact and guess. 
+Sir John who is the member of the 
 come to a meeting a little later. 
-cloak
-Please sir 
+cloak 
+check 
+the man in the cload 
+duty on the day. 
+Please sir you just go ahead. I will give without a check. 
 I will give you the hat 
 What will happen to his hat? 
+back 
+
+happen to sir John
 
 Well how do you 
+
+answered very sharply
 
 It is the hat you gave me. 
 
