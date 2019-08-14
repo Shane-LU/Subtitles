@@ -676,215 +676,264 @@ This was an analogy case.
 
 Let's work it a little more. (?)
 
-If you have one dividing line, you have two parts. 
+You have the plane.
+If you have one dividing line, then you have two parts. Good.
 
-If you have two dividing line, you have two parts. 
+If you have two dividing lines, it's four. 
 
-If you have three dividing lines, how many parts? 
+If you have no dividing lines, how many parts? One. One. Just one plane.
 
-Seven. 
+If you have three dividing lines, how many parts? Look at the blackboard. So how many? Seven. Seven.
 
-go far. 
+But we could go far. 
 
 Space divided by planes, plane divided by lines. 
-What comes after. 
+What comes after that?
 
+In space you have three dimensions. It works after 2 cube, which is 8. Two to the fourth it doesn't work. And in plane you have two dimensions. So it falls down to the 2 cube. 
 
+Good.
+That's a clever conjecture. Very good. Very clever conjecture.
+It goes to the third part because that space is 3 dimension. It goes to the second part because that is two dimensions.
 
-That's a clever conjuection. Very good. 
-It goes to the third part because space is 3 dimension. 
+Very clever. But I asked something else. (?)
 
-But I asked something different. 
+Space divided by planes.It is my first kind of question.
+Plane divided by lines. 
 
 What next? 
 Line divided by points. 
 Line divided by points. 
 
-That is much simpler. It's no dividing point then there is just one line. 
-If there is just one dividing point, how many pieces? Two. Two. 
+That is much so simpler. Here is the line. If there is no dividing point then there is just one line. 
+If there is one dividing point, how many pieces? Two. Two. Quite clearly.  
 If you have two dividing points, how many pieces? Three. 
-If I have three dividing points, now how many pieces? Four. 
-Four dividing points, Five. 
+If I have three dividing points: 1, 2, 3. Now how many pieces? Four. 
+How would it be with four dividing points? Five. 
 And so on. 
 
-If you have N dividing points. 
-N + 1. 
+You are courageous.
+If you would have N dividing points, how many pieces?
+N + 1. N + 1.
 You see, that should give you if you are inclined to do something in research. 
-This should give you amitious questions. 
-What you should have a formula 
-a formula
+This should give you an ambitious question. 
+Here you got a formular.
+What you should have a formula here. 
+What happens if N lines divide plane, what happens if N planes divide the space?
 
-This is amitious. 
-You should be amitious. 
-In science. 
-Other is not so good. 
+This is an ambitious plan. 
+You should be ambitious. If you have not ambitious, you won't get far.
+You should be ambitious. In science. 
+Other ways are not so good. 
 But in science, you should be ambitious. 
 
-Origin question
-If you have 5 dividing plane, then space 
-which number ?
+Now we have little time.
+So I would be quite happy if you would solve my original question fast.
+If you have 5 dividing planes, then space is cut into how many parts? 
+which number should come here?
 
-We collected some 
+We worked so much. 
+We collected some results. 
+His remark is very good. 
 
-Here one two, four, eight. 4th power, here 1, 2, 4. 
-4th power
+Here: one, two, four, eight. 
+But that is the third power, space is three dimensional.
+4th power, it doesn't work. (?)
+Here: 1, 2, 4. Plane is two dimensional. The third power doesn't work. (?)
 
-Two dimension
+Line is how many dimensional? One. One.
+One, zero, one. Two is already too high. It doesn't work anymore. 
 
-Line is how many dimension? One. 
-Two is already too high. 
-clever guss. 
+So here is the clever guess. (?)
 
-There is something in this number. 
-Challeng. What should I write here?
+There is something in these numbers. 
+Challenge to your guessing. (?)
+What should I write here?
 
-Looking at 
-what should I write here? 
+Looking at these table, what should I write here? Reasonable guess.
 29. 
-29. You say. Perhaps. 
+What?
+29. 
+29. 
+Perhaps. 
 28. 
-Now I am short of space. 
+28. 
+28. Now I am short of space. 
+21? 
 21. 
-21. 
+Let's start on the top. 21. 
 
-I don't know 
 What do you say?
 26. 
 You say 26. 
-so many difference. 
+So many different (guesses). 
 
-Could you explain your reason for 26?
+Now let me take the last one. 
 
-Well, perhaps in this column. 
+How do you come to 26? 
+Could you explain your reasons for 26?
+Yes. 
+I looked into (?) the pattern in the numbers that are on the board. 
+And I found that if you were working in the third column, that if you took the two preceding numbers in the other two columns and that column. 
 
-4, the 2, 2. 
-So this is the pattern discovered.
+OK. In the third column, for instance, you take 4. You take 4. 
+Well, perhaps or in this column. 
+Yes?
+Well, to get the 8 in the third column I added
 
-To get in the third column
+In the third row. The 8, to get two preceeding 
+4 and 4. To get that second 4, 
+makes 8. How do I get 7?
+You add the numbers above and the one. 
 
-To get that second 4. Number
+How to get 4? 
+The two tow.
+4, 2 and 2. 
+2, 1 and 1. 
+2, 1 and 1. 
 
-Seems to go. 
-15 you got 8 and 7. 
+Seems to go.
+And 15 how do you get that?  
+OK. You add 8 and 7. Good.
+So that is the pattern she discovered. 
+How did she get 26? Anybody else? Anybody follows?
+Yes. 
+The 7 and 4 in the second and third column to get 11. 
+7 and 4, if the pattern continues, that will get you 11. 
+And 15 and 11 in the first and second column will get 26. 
 
-How did she get 26? 
 
-7 and 4 get 11. 
- 
-
-49:46
 This is a reasonable guess. 
 A guess by induction. 
 It's based on observation. 
 
-Courage. Is it right?
-You had the courage. 
-If we go on, 
+On observation of the pattern, it is true that you must have still the courage to say and so on. (?) 
+
+Is it right?
+You had the courage. That's good for you. 
+You had the courage to say and so on. 
+If we go on. This will be go on.
 So you had the courage. 
 But tell me, is 11 proved? 
-Proved or not? 
-Is 26 proved?
-Is 26 proved?
+Yes or no? No.
+Proved or not? No.
+No more conviction you answer so weakly. (?)
+Is 26 proved? Yes or no?
 No. 
 That was better. 
+No. 
+Now it's another question. 
 
-It's another question. 
-
-not prooved. 
+Proved? No. It is not proved. 
 
 Do you believe it? 
 Do you believe it? 
 Sort of. 
-That was a good answer.
-Cautious. 
+Sort of. That was a very good answer.
+She is a cautious girl. 
+You must be cautious in life. 
+That's good for you. Yes. Sort of. 
 You believe it in half and half. 
+You believe not (as if) it is proved. (?)
+That's fine.
+Is it proved? No.
 
-
-But I can tell you. One of the important is to test your guess. 
-This is maybe the most important.
+But I can tell you. Here I told you: one of the important point is to test your guess. 
+This is maybe the most important for the scientist.
+Test your guess. 
 You have to test your guess. 
 
-So you guess 11, 26. 
-which is easier to guess. 
-In the plane I can do. 
-I have 
-
-prediction. 
-She predicted 11. 
+So we guessed 11 and 26, which is easier to guess? 11 or 26? 
+11. 
+Just in the plane, this I can do.
+In space it's very difficult to diagram.
+But in the plane, well I have to make one more line.
+Any line here. 
+OK. So complicated. 
+So it was a prediction. 
+She predicted, her method predicted 11. 
+Now let's go catch her, shall we?
 
 How many finite parts are there? 
 Three. 
+1, 2, 3. 
 So finite parts are three. Finite. 
-I just
-Now the infinite part, so I put here my finger and start counting. 
-My finger that is 1, 2, 3, 4, 5, 6, 7, 8
+I just write it here. (?)
+Now the infinite part, that's easy. They are all around. So I put here my finger and start counting. 
+Where my finger is that is 1, 2, 3, 4, 5, 6, 7, 8.
 3 + 8 = 11.
-what about 11
+So what about the 11?
+You could doubt.(?)
+So 11 seems to be more than just a fact. (guess?)
 
-11 seems to be more than
-
-So 11 seems 
-I will be more interesting in your opinion. 
-26 was a guess. It is still a guess. But the situaion is a little different. 
-verification, influence the conviction. 
-After the verification of 11, do you believe in 26 more or less? 
+I would be interested to know now what do you think. 
+I am just interested in your opinion. 
+26 was a guess. It is still a guess. 
+But the situation is a little different. 
+Now we have verified 11. 
+This verification, could and perhaps should influence our conviction. 
+So after the verification of 11, do you believe in 26 more or less? 
 More. 
-I think that's reasonable opinion. 
+Excellent. 
+Yes. I think that's the reasonable opinion. 
 
-underline pattern 
-underline pattern 
+Because if 11 checks that shows that the underlining pattern has something. 
+It gives us a little more credit to the underlining pattern, therefore 26. 
 
-proved?
+Proved? 
+No.
+So should you believe it? 
+No.
+Sort of. 
+She seems (?)
+She was sort of believing. 
+Not completely. Because it is not proved. 
+We didn't give a mathematic proof. 
+What kind of proof did we give? Something important. 
+Inductive evidence.
 
-Now should you believe it? 
-Sort of
+Mathematics is good to teach inductive evidence. 
+And that's important. 
+Everything serious we learned is based on inductive evidence.
+But even that you can first learn mathematics. 
 
-Not completely.  
+So 26 is not proved. If you look a little more, it can be proved. 
+But that we cannot do here. 
 
-Not proved. 
-Mathematic proof
-What kind of proof
+You see, for us the most important point is (that) 
+I want to tell you what is important in reasonable guessing. 
 
-Mathematics inductive. 
-Everything based on inductive.
+It's good to look at extreme cases. It is good to look at analogy.
 
-So 26 is not proofed. 
+Induction is very important. 
+You will have to observe. You have to look at the world if you wish to see how it is.
 
-You see, for us the most important part 
+But just looking at it is not enough. 
 
-I want ot tell you. 
+Then we observed, you detect a pattern. 
+If you detect a pattern, the behavior of boyfriend, that maybe very important. 
+So detect a pattern. 
+Then you have still the courage to say and so on.
+Generalize pattern will go on. 
+And altogether is induction, but perhaps the most important is to test the guess. 
+This is difference between the savage and scientist. 
+Savage believes and doesn't believe.
+Savage believes and disbelieves. 
+Scientist sort of believe all the time, never completely.
+Some guess are more respectable than the others, because they are better verified.
+So you have all thing to your guess.
 
-It's good to look at extreme
-Analogy 
-induction is very important. 
-
-
-But just looking at is not enough. 
-If you detect a pattern. 
-pattern
-behavior of boyfriend. 
-Detect a pattern. 
-have the courage to say and so on.
-Generalize pattern. 
-Altogether induction
-
-Test the guess. 
-This is between the savagae and science. 
-Scientist sort of believe 
-never complete.
-Some guess are more 
-So you have all thing to 
-I wish to tell you 
+I wish to tell you a last story. 
 Last 
-have to test the guess. 
+You have to test the guess. 
 Keep all these 
-fact and guess. 
+This is a fact and this is a guess. 
 This distinction. should be very clear in your mind
 
 
-
+England
 All royal sciociety. 
-
+Once 
 distinction between the fact and guess. 
 Sir John who is the member of the 
 come to a meeting a little later. 
