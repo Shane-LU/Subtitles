@@ -1,31 +1,29 @@
-(I will remove most of the “you see” in the video, which are not of much importance.)
-
-
 The mathematical association of America
 The mathematical association of America presents
 MAA video classics number 1  George Polya in teaching us a lesson
-copyright 1966 The mathematical association of America All Rights Reserved Unauthorized Reproduction is Prohibited
+copyright 1966 The mathematical association of America 
+All Rights Reserved Unauthorized Reproduction is Prohibited
 
 What I am trying to present you today will not be a lecture.
 It will be rather a demonstration or an experiment.
-In this experiment or demonstration or whatever you like to call it
+In this experiment or demonstration or whatever you like to call it,
 has the aim to present to you my attitude to teaching.
 You see, this is not a method, it is not a system.
 Teaching is not a science, it’s an art.
 You cannot put it clearly in a system,
 but you may have an attitude to it.
-This attitude cannot be easily described inverts.
+This attitude cannot be easily described in words.
 More in acts and I will show you that afterwards if I can,
 but I can tell you a few slogans.
 Let me put my first point in the question and answer form.
 What is teaching? 
-In my opinion, teaching is giving opportunity to the students to discover thinks(things?) by themselves. 
+In my opinion, teaching is giving opportunity to the students to discover things by themselves. 
 Not a teacher should tell the things to the students.
 If they wish to learn, clearly, they have to discover it.
 The second point: first guess then prove.
 All great discoveries were made in this type.
-The discoveries in the mind of Archimedes or Gauss or Newton, they are conceived this way or 
-anyhow some of the important terms(?). 
+The discoveries in the mind of Archimedes or Gauss or Newton, 
+they are conceived this way or anyhow some of the important terms(?). 
 Any kids in the classroom finds, thinks this way: first guess then prove.
 My third point is a straightforward application of this point to Mathematics.
 Mathematics seems to consist of proofs, but it’s not quite so.
@@ -62,7 +60,6 @@ It illustrates his extraordinary his uncanny ability to stimulate a group to gue
 make reasonable conjectures, 
 a process which is essential to mathematical discovery.
 
-<---
 Ladies and gentlemen, 
 I don’t wish to give you a lecture but I wish to teach you about guessing. 
 It’s very important part in life to be a good guesser. 
@@ -354,7 +351,7 @@ Woo, everybody. Good.
 So 16. 
 
 Well I must tell you that is a reasonable guess. 
-Ant that it is now important to tell you the difference between a wild guess and a reasonable guess. 
+And that it is now important to tell you the difference between a wild guess and a reasonable guess. 
 A wild guess come just out of the blue(?), out of nothing. 
 But a reasonable guess is based on something. 
 For instance, this guess, 16, was based on observation. 
