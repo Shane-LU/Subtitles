@@ -407,7 +407,7 @@ You can guess.
 What you should not do that you believe your own guesses.
 Believing a little bit in your guess is healthy. (?)
 But believe completely your guess, well that's the stand point of savagers, not of educated people. 
-So you doubted. And that's not enough. You have to doubted ?
+So you doubted. And that's not enough. You have to doubt your guesses. 
 You have to test your guess. 
 You have to check it. 
 Your guess was a prediction. 
@@ -472,7 +472,7 @@ And how many should there be?
 What did you say? How many should there be? 
 Now stick to your guess. Say what you did before. 16. 16. That's 16.
 Now alright we shall see. 
-Can you just by looking at the (?)? Can you? How many? 15. How did you come?
+Can you just by looking at them to count them? Can you? How many? 15. How did you come?
 
 Are you sure that you counted it correct?
 
@@ -570,6 +570,7 @@ Very good.
 So having an edge in common. There are six. 
 And there is one more. 
 If there is less than an edge, just a point in common. 
+just a point in common. 
 They are very (?)
 
 These are emphasis in the figure. 
@@ -599,7 +600,10 @@ But this is pretty hard (in our case). (If we) change the plane, quite some angl
 
 Yes, please. 
 
-The case we did before when we thought it was 16. Which case we did before? On the board, when you represented the planes by those lines. 
+The case we did before when we thought it was 16. 
+
+Which case we did before? 
+On the board, when you represented the planes by those lines. 
 And you had the forth plane represented by blackboard. 
 This is about lines. This is about lines in the plane. 
 But in the first case you represented plane by one of those lines.
@@ -639,7 +643,7 @@ That was a speculation. That will be true if new plane cut all the old in two, b
 But it doesn't. That's right.
 Now we agree. But it doesn't. 
 
-Well, look here. It is right. Don't follow anything easier.(?)
+Well, look here. It is right. Don't swallow anything easier.
 It is, I think, it is an experience. 
 16, that was a respectable guess. It was an inductive guess. Not a wild guess. 
 It was a reasonable guess, inductive guess. 
@@ -660,7 +664,7 @@ But I hope it's not erased in your memory. They should stay.
 Reasonable guess may come out wrong. 
 
 But I think we learned something. 
-For instance, interesting things belong to this analogy.(?)
+For instance, interesting things belong to this analogy.
 Without analogy, which one of you very cleverly sensed at the beginning. 
 Without analogy, it would have been much harder to find the number 15. 
 It will be much hard to find the number 15. 
@@ -958,7 +962,7 @@ The Panel on Individual Lectures
 Committee in Educational Media
 
 With Financial support from the national science foundation
-(?) Appreciation to (?) Paul B. Johnson and Students at U.C.L.A
+Grateful Appreciation to Professor Paul B. Johnson and Students at U.C.L.A
 
 A Kurt Simon production
 Production director
